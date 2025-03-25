@@ -11,3 +11,5 @@
 - Evaluated the model’s **accuracy and efficiency** in parsing Telugu sentences, identifying linguistic structures, and improving Telugu NLP applications.  
 
 This project enhanced my understanding of **Natural Language Processing, Machine Learning, and AI-driven text analysis**, contributing to advancements in **Telugu language processing**. 
+
+PDF LINK : https://drive.google.com/file/d/14LJda1pVwQeaaasXHfXiuf9kW8-UHx7f/view?usp=sharing
