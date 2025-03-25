@@ -1,4 +1,4 @@
-# Dependency-Parser-for-Telugu
+# DEPENDENCY-PARSER-FOR-TELUGU
 
 **Completed this project as part of my MSc Data Science final year project.**  
 
